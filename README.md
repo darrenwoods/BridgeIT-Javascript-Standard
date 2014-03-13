@@ -1,4 +1,4 @@
-#LANDesk JavaScript Style Guide() {
+#BridgeIT JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
