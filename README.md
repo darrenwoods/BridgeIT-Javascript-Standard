@@ -1,4 +1,4 @@
-#BridgeIT JavaScript Style Guide() {
+#BridgeIT JavaScript Style Guide(2017) {
 
 *A mostly reasonable approach to JavaScript*
 
